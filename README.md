@@ -39,7 +39,7 @@
             les deciamos junto a mi hermana Camila que fueramos a ver a mi buelita y tambien por la tranquilidad que nos da donde vivimos
             ya viviendo aqui no tengo muchos recuerdos, solamente co mi primo Jean jugado y un viaje en Cancún junto con mi familia.
         </p>
-        <img src="Imagen infancia 1.jpeg" style="width:150px;"/>
+        <img src="C:\Users\AGO\OneDrive - AGO CONSULTORES\Imagen infancia 1.jpeg" style="width:150px;"/>
     </div>
     
     <div class="section">
